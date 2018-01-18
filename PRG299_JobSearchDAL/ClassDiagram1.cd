@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PRG299_JobSearchDAL.JobSearchDB">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>JobSearchDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.CompanyDB">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompanyDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.ContactDB">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ContactDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.EventLogDB">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>EventLogDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.JobDB">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JobDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.JobContactDB">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JobContactDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.JobOpeningDB">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>JobOpeningDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.JobSkillDB">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>JobSkillDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PRG299_JobSearchDAL.SkillDB">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SkillDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
