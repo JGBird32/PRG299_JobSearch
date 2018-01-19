@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG299_JobSearch", "PRG299_JobSearch\PRG299_JobSearch.csproj", "{17E5D792-B12F-46EB-870B-217D97550F75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG299_JobSearchBLL", "PRG299_JobSearch\PRG299_JobSearchBLL.csproj", "{17E5D792-B12F-46EB-870B-217D97550F75}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG299_JobSearchDAL", "PRG299_JobSearchDAL\PRG299_JobSearchDAL.csproj", "{3F357C5D-B59C-4CFB-B50F-76869A4056A8}"
 EndProject

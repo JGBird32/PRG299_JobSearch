@@ -1,10 +1,14 @@
-﻿using System;
+﻿/*Jansen Ford
+ * JobSearch BLL
+ * Company
+ * */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PRG299_JobSearch
+namespace PRG299_JobSearchBLL
 {
     public class Company
     {
